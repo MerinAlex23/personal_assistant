@@ -16,15 +16,20 @@ we are part of shehacks hackathon and our stack is python. We have trained our p
 * pyttsx3
 * neuralintents
 * gtts
+* pywhatkit
+* os
+* random
 
+## GUI design
+![alt text](https://github.com/MerinAlex23/personal_assistant/blob/main/assistant.png?raw=true)
 
 
 ## uses
 Here we have developed a personal assistant for:
 * search youtube videos
+* greet people
 * create file and name it
 * create to-do list
 * show to do list
 * sound to text
-## GUI design
-![alt text](https://github.com/MerinAlex23/personal_assistant/blob/main/assistant.png?raw=true)
+
