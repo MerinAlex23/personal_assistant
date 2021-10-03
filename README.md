@@ -32,4 +32,5 @@ Here we have developed a personal assistant for:
 * create to-do list
 * show to do list
 * sound to text
-
+## video recording
+https://www.loom.com/share/bd6bb34e0f104b2985090903ee527f8e
